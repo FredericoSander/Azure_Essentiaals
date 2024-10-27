@@ -84,6 +84,6 @@ Após a criação, a máquina virtual estará disponível no painel Todos os rec
 
 Após a confirmação da criação da máquina virtual para fins didáticos, ela foi paralisada e, posteriormente, excluída para evitar cobranças futuras por seu uso.
 
-## Autores
+## Autor
 
 - [Frederico S N Cota](https://github.com/FredericoSander)
