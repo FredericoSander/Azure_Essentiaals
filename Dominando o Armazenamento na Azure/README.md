@@ -9,7 +9,7 @@ Para criar uma conta de armazenamento na Azure, primeiro faça login no portal d
 - Painel conta de armazenamento
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Dominando%20o%20Armazenamento%20na%20Azure/imagem/Painel%20de%20conta%20de%20armazenamento.png">
 </div>
 
 No painel de contas de armazenamento, deve-se clicar na opção criar para iniciar a criação de uma conta de armazenamento. Será então aberto um painel contendos as abas de configuração da conta a ser criada conforme imagem
@@ -17,7 +17,7 @@ No painel de contas de armazenamento, deve-se clicar na opção criar para inici
 - Painel de criação de uma conta de aramazenamento
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Dominando%20o%20Armazenamento%20na%20Azure/imagem/Painel%20de%20cria%C3%A7%C3%A3o%20de%20conta.png">
 </div>
 
 
@@ -26,7 +26,7 @@ Para criação, o usuário deverá criar configurações que a conta de armazena
 - Implantação da conta de armazenamento configurada
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Dominando%20o%20Armazenamento%20na%20Azure/imagem/Implanta%C3%A7%C3%A3o.png">
 </div>
 
 
@@ -37,7 +37,7 @@ Neste painel é apresentado uma conta de armazenamento que foi criada para receb
 - Painel da conta de armazenamento
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Dominando%20o%20Armazenamento%20na%20Azure/imagem/Dados%20da%20conta%20criada.png">
 </div>
 
 ## Autor
