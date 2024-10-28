@@ -13,12 +13,12 @@ Para criar uma máquina virtual no Azure, primeiro faça login no portal do Azur
  <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Criando%20maquinas%20virtuais/Imagens/Criar%20Recursos.png">
 </div>
 
-Em seguida,selecione seta ao lado da opção criar para ver as opções de maquinas virtuais disponíveis.
+Em seguida, selecione seta ao lado da opção criar para ver as opções de maquinas virtuais disponíveis.
 
 - Caixa de opções de máquinas virtuais.
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Configurando%20recursos%20e%20Dimensionando%20VMs/imagens/Maquinas%20virtuais%20op%C3%A7%C3%B5es.png">
 </div>
 
 ## Autor
