@@ -1,6 +1,6 @@
 # Configurando recursos e dimensionando maquinas virtuais
 
-Este projeto consiste na criação de uma Máquina Virtual no Azure e no configurando recursos e dimensionando a maquina de acordo com a utiização que será dada a está maquina
+Este projeto consiste na criação de uma Máquina Virtual no Azure e no configurando recursos e dimensionando a maquina de acordo com a utilização que será dada a essa maquina
 visando testar e demonstrar o processo de provisionamento de recursos na plataforma. Para realizar este procedimento, é imprescindível que o usuário tenha uma conta ativa no Azure.
 
 ## Acessando recurso no AZURE
