@@ -17,7 +17,7 @@ O primeiro passo é definir as cargas de trabalho que serão utilizadas, para is
 - Painel de definição das cargas de trabalho
 
 <div aling="center">
- <img src="">
+ <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Otimizando%20custo/imagens/Defini%C3%A7%C3%A3o%20de%20cargas.png">
 </div>
 
 ### Definição das cargas de trabalho
