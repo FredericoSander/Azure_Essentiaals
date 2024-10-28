@@ -2,7 +2,7 @@
 
 Este projeto consiste na criação de um banco de dados em SQL na Azure com configurações básicas, visando testar e demonstrar o processo de provisionamento de recursos na plataforma. Para realizar este procedimento, é imprescindível que o usuário tenha uma conta ativa na Azure.
 
-## Acessando recurso no AZURE
+## Acessando recurso na AZURE
 
 Para criar um banco de dados em SQL na Azure, comece realizando o login no portal do Azure. No menu à esquerda, clique em Banco de dados SQL. Um painel com todos os bancos de dados existentes será exibido. Conforme imagem.
 
@@ -14,7 +14,7 @@ Para criar um banco de dados em SQL na Azure, comece realizando o login no porta
 
 Em seguida, selecione a opção criar, para ser direcionado ao painel de criação de banco de dados.
 
-- Painel de criação de Banco de Dados Azure
+- Painel de criação de Banco de Dados SQL na Azure
 
 <div aling="center">
  <img src="https://github.com/FredericoSander/Azure_Essentials/blob/main/Configurando%20uma%20inst%C3%A2ncia%20de%20banco%20de%20dados%20na%20Azure/imagens/Configura%C3%A7%C3%A3o%20do%20Banco%20de%20Dados.png">
